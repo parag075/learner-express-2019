@@ -1,0 +1,7 @@
+{
+	"jwtPrivateKey": "unsecureKey",
+	"db": "mongodb://localhost/vidly",
+	"atlas": "mongodb+srv://root:toor@cluster0-2fo6d.mongodb.net/TodoListDB?retryWrites=true&w=majority",
+	"port": "3000",
+	"requiresAuth": false
+}
